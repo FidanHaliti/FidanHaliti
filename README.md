@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fidanhaliti&" alt="fidanhaliti" /></p>
 
-![snake gif](https://github.com/FidanHaliti/FidanHaliti/blob/output/github-contribution-grid-snake.gif)
+
