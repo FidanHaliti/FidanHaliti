@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **fidan.haliti01@gmail.com**
 
+- My Cv (https://storage.googleapis.com/resume-hosting/66e42033b8d84.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/fidan-haliti-725489235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fidan-haliti-725489235" height="30" width="40" /></a>
