@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **fidan.haliti01@gmail.com**
 
-- My Cv (https://storage.googleapis.com/resume-hosting/66e42033b8d84.pdf)
+- My Cv [Link](https://storage.googleapis.com/resume-hosting/66e42033b8d84.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
